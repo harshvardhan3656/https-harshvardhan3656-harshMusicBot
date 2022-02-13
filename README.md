@@ -10,7 +10,7 @@
     <a href="https://t.me/YukkiSupport"> Support Chat </a> 
 </p>
     
-# Yukki Music Bot
+# harsh music bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
@@ -89,7 +89,7 @@ shikhar@MacBook~ $ bash start
 - [Telegram Channel](https://t.me/OfficialYukki)
 - [Telegram Support Group](https://t.me/OfficialYukkiSupport)
 - [Contact Owner](https://t.me/NotReallyShikhar)
-
+- [contact editer](https://t.me/harsh_vardhan3656
 
 ## License
 
